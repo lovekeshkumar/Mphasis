@@ -1,7 +1,3 @@
-export class Status{
+export interface Status {
     queryStatus: boolean
-
-    constructor(){
-    
-    }
 }
